@@ -1,4 +1,4 @@
-<h1 align:"center">Welcome to Trizly..</h1>
+<h1 align:"center"> Welcome to Trizly </h1>
 
 <p align="center">
   <strong><a href="https://trizly.xyz">Trizly Systems</a></strong> is a Discord development organization specializing in Roblox community infrastructure. We build and maintain scalable Discord bots, REST APIs, and comprehensive developer tools designed to empower Roblox communities of all sizes. Support our OPEN SOURCE Journey into dominating our industries today by joining our communications.
