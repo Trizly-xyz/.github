@@ -4,6 +4,10 @@
   <strong><a href="https://trizly.xyz">Trizly Systems</a></strong> is a Discord development organization specializing in Roblox community infrastructure. We build and maintain scalable Discord bots, REST APIs, and comprehensive developer tools designed to empower Roblox communities of all sizes. Support our OPEN SOURCE Journey into dominating our industries today by joining our communications.
 </p>
 
+<p align="center">
+  Our mission is to provide high-quality, free-to-use resources that enable community managers and developers to create engaging, professional Discord servers. From moderation and verification systems to custom integrations and analytics, we deliver the tools you need to succeed.
+</p>
+
 ----
 
 <h3>Languages We use</h3>
